@@ -49,13 +49,13 @@ This system uses data science techniques to:
 
 
 
-• Temperature Trend: outputs/plots/results/temperature_trend.png
+• Temperature Trend: outputs/plots/temperature_trend.png
 
 
-• Rainfall Trend: outputs/plots/results/rainfall_trend.png
+• Rainfall Trend: outputs/plots/rainfall_trend.png
 
 
-• Anomaly Detection: outputs/plots/results/anomaly_plot.png
+• Anomaly Detection: outputs/plots/anomaly_plot.png
 
 
 
@@ -117,6 +117,18 @@ Climate-Trend-Analyzer/
 
 ## Interactive Dashboard
 
+
+
+![Temperature Dashboard](outputs/temperature_dashboard.png)
+
+
+![Rainfall Dashboard](outputs/rainfall_dashboard.png)
+
+
+![Anomaly Dashboard](outputs/anomaly_dashboard.png)
+
+
+![Forecast Dashboard](outputs/forecast_dashboard.png)
 
 
 
